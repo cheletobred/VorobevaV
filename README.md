@@ -4,4 +4,6 @@
 
 Практика 4 - https://github.com/cheletobred/VorobevaV4.git
 
+Практика 5 - https://github.com/cheletobred/VorobevaV5.git
+
 !!!!! MireaProject - https://github.com/cheletobred/MireaProject.git !!!!!!!!!
