@@ -8,4 +8,6 @@
 
 Практика 6 - https://github.com/cheletobred/VorobevaV6.git
 
+Практика 7 - https://github.com/cheletobred/VorobevaV7.git
+
 !!!!! MireaProject - https://github.com/cheletobred/MireaProject.git !!!!!!!!!
